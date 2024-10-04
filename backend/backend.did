@@ -1,0 +1,4 @@
+service : {
+  getCounter: () -> (nat) query;
+  incrementCounter: () -> (nat);
+}
